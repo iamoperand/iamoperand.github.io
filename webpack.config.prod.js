@@ -20,7 +20,7 @@ const config = {
           'babel-loader',
         ],
         exclude: /node_modules/,
-      }
+      },
     ],
   },
   plugins: [
